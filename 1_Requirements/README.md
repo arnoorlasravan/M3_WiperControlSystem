@@ -23,3 +23,6 @@ When you understand the importance of safety management and start to be accounta
 This can be used by the user in day to day life where they can track their safety and generate better results in life during travelling via motor vehicles .
 # How
 LED shows the position of wiper and it will return to the original position after cleaning windsheet of motor vehicles .
+# SWOT ANALYSIS
+![image](https://user-images.githubusercontent.com/101430667/168328490-bf70ece3-71a3-428e-8a0e-24cb1b912e78.png)
+
