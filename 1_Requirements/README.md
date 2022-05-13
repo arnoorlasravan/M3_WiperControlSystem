@@ -26,10 +26,16 @@ LED shows the position of wiper and it will return to the original position afte
 # SWOT ANALYSIS
 ![image](https://user-images.githubusercontent.com/101430667/168328490-bf70ece3-71a3-428e-8a0e-24cb1b912e78.png)
 # DETAIL REQUIREMENTS
+# HIGH LEVEL REQUIREMENTS
 |  ID   |     	Description	       |  Requirement	      | Status      |
 |-------|--------------------------|--------------------|-------------|
 | HR001 |	SSD or HARD DRIVE	       |   1GB TO 20 GB	    | IMPLEMENTED |
 | HR002	|OPERATING SYSTEM          |	WINDOWS	          | IMPLEMENTED |
 | HR003 |PROGRAMMING LANGUAGE      |	EMBEDDED C	      |IMPLEMENTED  |
 | HR004	|ARM BASED MICROCONTROLLER |STM32F407VGT6 BOARD	|IMPLEMENTED  |
-
+# LOW LEVEL REQUIREMENTS
+| ID	|      Description                                                           |	REQUIREMENT	                    |Status (Implemented/Future)|
+|-----|----------------------------------------------------------------------------|----------------------------------|---------------------------|
+|LR001|Wiper comes to initial position after his work                              | LED used for this	              |    IMPLEMENTED            |
+|LR002|proper supply to pins and board                                             | Done                             |    IMPLEMENTED            |
+|LR003|	ON and OFF switch mechanism for activation anddeactivation of wiper blade  | Done                             |  	 IMPLEMENTED            |
