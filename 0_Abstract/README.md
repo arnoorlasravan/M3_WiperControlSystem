@@ -1,7 +1,12 @@
-# INTRODUCTION
-
-A windscreen wiper, windshield wiper or wiper blade is a device used to remove rain, snow, ice, washer fluid, water, and/or debris from a vehicle's front window. Almost all motor vehicles, including cars, trucks, buses, train locomotives, and watercraft with a cabin—and some aircraft are equipped with one or more such wipers, which are usually a legal requirement.
-
-A wiper generally consists of a metal arm; one end pivots, the other end has a long rubber blade attached to it. The arm is powered by a motor, often an electric motor, although pneumatic power is also used for some vehicles. The blade is swung back and forth over the glass, pushing water, other precipitation, or any other impediments to visibility, from its surface. On vehicles made after 1969, the speed is normally adjustable, with several continuous speeds, and often one or more intermittent settings. Most personal automobiles use two synchronized radial-type arms, while many commercial vehicles use one or more pantograph arms.
-
-On some vehicles, a windscreen washer system is also used to improve and expand the function of the wiper(s) to dry or icy conditions. This system sprays water, or an antifreeze window washer fluid, at the windscreen using several well-positioned nozzles. This system helps remove dirt or dust from the windscreen when it is used in concert with the wiper blades. When antifreeze washer fluid is used, it can help the wipers remove snow or ice. For these types of winter conditions, some vehicles have additional heaters aimed at the windows, embedded heating wire(s) in the glass, or embedded heating wire(s) in the wiper blade; these defroster systems can melt ice or help to keep snow and ice from building up on the windscreen. Less frequently, miniature wipers are installed on headlights to ensure that they function optimally
+# ABSTRACTION
+Wiper is an essential component that used to wipe raindrops or any water from the vehicle’s windscreen. The previous system
+used to activate the wiper manually and the process of pulling up the wiper is difficult to be handled. Thus, this system is
+proposed to solve these problems. The objectives of this project are to upgrade the older cars system by providing automatic
+wiping system, to improve the system by using sensor with actuator and to design a basic program that will fully operate with
+the system. The concept of this proposed wiper system is similar with other existing conventional wiper. In spite of removing
+water from windscreen, this system also will be upgraded to an automatic control system by using a Peripheral Interface
+Controller and water sensor. As the conclusion for the project, the results shows all the aim
+objectives are successfully achieved. The wiper system was well functionally according the water condition from the outside of a
+car. This project showed a contribution on the design of the automatic wiper system for the future research in this same field. It
+is recommended that the system to have a study on the wiper material that been used to make a wiper because the driver at hot
+and climate country are facing the problems regards to the wiper material
