@@ -27,7 +27,7 @@ LED shows the position of wiper and it will return to the original position afte
 ![image](https://user-images.githubusercontent.com/101430667/168328490-bf70ece3-71a3-428e-8a0e-24cb1b912e78.png)
 # DETAIL REQUIREMENTS
 |  ID   |     	Description	       |  Requirement	      | Status      |
----------------------------------------------------------------------
+|-------|--------------------------|--------------------|-------------|
 | HR001 |	SSD or HARD DRIVE	       |   1GB TO 20 GB	    | IMPLEMENTED |
 | HR002	|OPERATING SYSTEM          |	WINDOWS	          | IMPLEMENTED |
 | HR003 |PROGRAMMING LANGUAGE      |	EMBEDDED C	      |IMPLEMENTED  |
